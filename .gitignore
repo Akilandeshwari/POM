@@ -1,0 +1,8 @@
+.settings
+data/*
+drivers/*
+reports/*
+target/*
+test-output/*
+.classpath
+.project
